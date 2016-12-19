@@ -162,8 +162,8 @@ CSV.open('stations2.csv', 'w', CSV_PARAMS) do |csv|
                   if is_valid_translation(searched_name, row, language, translation) && row[:"info#{language}"].nil?               
                     row[:"info#{language}"] = translation
                     if !["ru", "ko", "zh", "ja"].include?(language)
-                      p "Translation found for #{searched_name} (#{row[:name]} #{row[:id]})"
-                      p "#{language}: #{translation}"
+                      puts "Translation found for #{searched_name} (#{row[:name]} #{row[:id]})"
+                      puts "#{language}: #{translation}"
                     end
                   end
                 end
