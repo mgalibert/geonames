@@ -258,6 +258,7 @@ Rouffach
 Logelbach
 Walbach
 Ranspach
+Cernay
 Burnhaupt
 Guewenheim
 Sentheim
@@ -1022,6 +1023,7 @@ Vers
 Saint-Géry
 Saint-Martin-Labouval
 Montbrun
+Toirac
 Mercues
 Douelle
 Parnac
@@ -1229,7 +1231,7 @@ Blaisy-Bas
 Verrey
 Thenissey
 Tonnerre
-Sémur-en-Auxois
+Semur-en-Auxois
 Saint-Amandin
 Collonges
 Villers-les-Pots
@@ -1730,6 +1732,7 @@ Gan
 Tassin
 Enveitg
 Bouziès
+Terrasson
 Thiers
 Thésée
 Thoiry
@@ -1963,6 +1966,7 @@ Crans-sur-Sierre
 Dietikon
 Gümmenen
 Haute-Nendaz
+Klosters
 Lenzerheide/Lai
 Luzern
 Brigue
@@ -2046,6 +2050,7 @@ Calella
 Caldas de Malavella
 Cantalapiedra
 Oza de los Ríos
+Castellón de la Plana
 Torrelodones
 Viana
 Fuentes de Oñoro
@@ -2111,6 +2116,7 @@ Giengen
 Grafing
 Großenbrode
 Goldshöfe
+Bad Grönenbach
 Griesen
 Haffkrug
 Hameln
@@ -2139,6 +2145,7 @@ Karthaus
 Klais
 Königshofen
 Köln
+Köln-Ehrenfeld
 Kranenburg
 Klingenberg
 Kressbronn
@@ -2197,6 +2204,7 @@ Rüdesheim
 Rüsselsheim
 Sachsenhausen
 Salzgitter-Bad
+Salzgitter-Ringelheim
 Sande
 St Georgen
 St Goar
@@ -2271,6 +2279,7 @@ Leutkirch
 Barnten
 Othfresen
 Emmendingen
+Bochum-Langendreer
 München
 Buebingen
 Wengerohr
@@ -2283,7 +2292,7 @@ Bad Krozingen
 Berlin-Charlottenburg
 Brohl
 Bingen
-Brunswick
+Berlin-Spandau
 Ehrang
 Eichenberg
 Eltville
@@ -2302,7 +2311,6 @@ Kirchenlaibach
 Karlstadt
 Neuburg
 Nürnberg
-Fribourg-en-Brisgau
 Berlin Wannsee
 Gutenfürst
 Villingen
@@ -2540,7 +2548,6 @@ Reggio di Calabria
 Roma
 Torino
 Venezia
-Verone
 Wasserbillig
 Rodange
 Kautenbach
@@ -2548,7 +2555,6 @@ Amsterdam Sloterdijk
 Hengelo
 Hoofddorp
 Bad Nieuweschans
-La Haye
 Den Haag
 Schiphol
 Pinhel
@@ -2694,6 +2700,7 @@ Saint-Briac
 Les Essarts-le-Roi
 Le Perray
 Gazeran
+Val-d’Isère
 Mauvezin-de-Prat
 Beynes
 Fontenay-le-Fleury
@@ -3192,6 +3199,8 @@ Bad Soden
 Bad St. Peter
 Baden
 Bäumenheim
+Hamburg-Allermöhe
+Hamburg-Bahrenfeld
 Balbersdorf
 Baldham
 Balgheim
@@ -3249,6 +3258,7 @@ Bleibach
 Bleichenbach
 Bobenheim
 Bobstadt
+Bochum-Dahlhausen
 Bockum-Hövel
 Bodenburg
 Bad Bodendorf
@@ -3337,6 +3347,7 @@ Dudweiler
 Dülken
 Dürrenbüchig
 Dürrnhaar
+Düsseldorf-Unterrath
 Duisburg-Wedau
 Dutenhofen
 Ebenhausen
@@ -3425,8 +3436,12 @@ Forsthaus
 Forsting
 Forth
 Frankenstein
+Frankfurt-Eschersheim
+Frankfurt-Nied
 Frankfurt-Niederrad
+Frankfurt-Rödelheim
 Frankfurt-Sindlingen
+Frankfurt-Zeilsheim
 Freden
 Freihalden
 Freihöls
@@ -3516,7 +3531,9 @@ Halen
 Haltingen
 Hamburg-Bergedorf
 Hamburg-Eidelstedt
+Hamburg-Rahlstedt
 Hamburg-Wandsbek
+Hamburg-Wilhelmsburg
 Hanweiler
 Harblek
 Hardhof
@@ -3780,6 +3797,7 @@ Malmsheim
 Malsch
 Mandern
 Manndorf
+Mannheim-Rheinau
 Marbach
 Markelsheim
 Martinlamitz
@@ -3806,6 +3824,7 @@ Miesenheim
 Millingen
 Mimberg
 Mindelaltheim
+Mittel Gründau
 Mittergars
 Mönchröden
 Mörfelden
@@ -3951,6 +3970,7 @@ Poggenhagen
 Poikam
 Poing
 Pommern
+Hamburg-Poppenbüttel
 Poppenhausen
 Porta Westfalica
 Possenhofen
@@ -3980,6 +4000,7 @@ Reckendorf
 Reckenfeld
 Reckweilerhof
 Rednitzhembach
+Redwitz
 Regensburg-Prüfening
 Reichelsheim
 Reichenbach
@@ -4010,6 +4031,7 @@ Rimbach
 Rinkerode
 Rinnthal
 Rippberg
+Hamburg-Rissen
 Bad Rodach
 Rodenkirchen
 Rodheim vor der Höhe
@@ -4028,6 +4050,7 @@ Roßbach
 Rotenhain
 Rothenbürg
 Rothenburg ob der Tauber
+Hamburg-Rothenburgsort
 Rott
 Rottershausen
 Rudersdorf
@@ -4243,6 +4266,7 @@ Westönnen
 Wicklesgreuth
 Wickrath
 Wiebelskirchen
+Wiesbaden-Schierstein
 Wiesenfeld
 Wieslensdorf
 Wiesental
@@ -4261,6 +4285,7 @@ Wintermoor
 Wirtheim
 Wissingen
 Wittbräucke
+Witten-Annen
 Witterschlick
 Wittighausen
 Wörnitzstein
@@ -4296,6 +4321,7 @@ Unteruhldingen
 Busenbach
 Oberachern
 Furschenbach
+Ottenhöfen
 Etzenrot
 Langensteinbach
 Ittersbach
@@ -4332,6 +4358,7 @@ Oberöwisheim
 Münzesheim
 Bahnbrücken
 Menzingen
+Frankfurt-Unterliederbach
 Liederbach
 Kelkheim
 Schneidhain
@@ -4400,6 +4427,7 @@ Thiergarten
 Arnsdorf
 Baalberge
 Basdorf
+Bad Belzig
 Berlin-Karlshorst
 Kürbitz
 Berthelsdorf
@@ -4958,6 +4986,7 @@ Schafstädt
 Scharfenstein
 Scharstorf
 Schleife
+Bad Schlema
 Schöna
 Schönau
 Schönborn
@@ -5233,6 +5262,7 @@ Wenningstedt
 Stubbenfelde
 Wehrden
 Berlin Baumschulenweg
+Berlin-Heiligensee
 Berlin-Adlershof
 Berlin-Altglienicke
 Berlin-Biesdorf
@@ -5244,17 +5274,21 @@ Berlin-Friedrichshagen
 Berlin-Frohnau
 Berlin-Grunewald
 Berlin-Grünau
+Berlin-Hermsdorf
 Berlin-Kaulsdorf
 Berlin-Köpenick
 Berlin-Lichtenrade
 Berlin-Mahlsdorf
 Berlin-Marienfelde
 Berlin-Marzahn
+Berlin-Nikolassee
 Berlin-Pankow
 Berlin-Rahnsdorf
+Berlin-Rummelsburg
 Berlin-Spindlersfeld
 Berlin-Tegel
 Berlin-Tempelhof
+Berlin-Tiergarten
 Berlin-Wartenberg
 Berlin-Wilhelmshagen
 Berlin-Wilhelmsruh
@@ -5434,6 +5468,7 @@ St. Johann in Tirol
 St. Anton am Arlberg
 Langen am Arlberg
 St. Michael in Obersteiermark
+Pörtschach am Wörther See
 Faak am See
 Dorfgastein
 Matrei am Brenner
@@ -5444,6 +5479,7 @@ Bad Mitterndorf
 Hermagor
 Krems an der Donau
 Bad Kreckelmoos
+Vandans
 Rum
 Wernstein
 Lermoos
@@ -5490,6 +5526,7 @@ Heusden
 Berlaar
 Booischot
 Begijnendijk
+Bokrijk
 Buda
 Weerde
 Duffel
@@ -5754,6 +5791,7 @@ Give
 Glumsø
 Gørding
 Græsted
+Gråsten
 Gredstedbro
 Grenaa
 Guldager
@@ -5794,6 +5832,7 @@ Lem
 Lille Skensved
 Lundby
 Lyngs
+Ørestad
 Mørdrup
 Mørkøv
 Nivå
@@ -5810,6 +5849,7 @@ Ringkøbing
 Rødekro
 Rødkærsbro
 Rudme
+Rungsted Kyst
 Saltrup
 Saunte
 Sejstrup
@@ -5902,7 +5942,6 @@ Lage Zwaluwe
 ’t Harde
 Maarn
 Maarssen
-Maassluis
 Marienberg
 Almere Poort
 Nieuw Amsterdam
@@ -5926,7 +5965,6 @@ Soestdijk
 Spaubeek
 Susteren
 Velp
-Vlaardingen
 Vleuten
 Vlissingen
 Voorburg
@@ -6257,6 +6295,7 @@ Maratea
 Marausa
 Gavignano Sabino
 Roseto-Capo Spulico
+Rosignano
 Rossano Veneto
 Rossiglione
 Rosta
@@ -6338,6 +6377,7 @@ Mascali
 Massafra
 Marianopoli
 Marina di Cerveteri
+Marina di Maratea
 Pietragalla
 Pietratagliata
 Pietrelcina
@@ -6451,6 +6491,7 @@ Avise
 Badia Polesine
 Bagnara
 Bagni di Tivoli
+Balestrate
 Balsorano
 Ceriale
 Cese
@@ -6519,6 +6560,7 @@ Torviscosa
 Trabia
 San Nazario
 San Michele di Serino
+Sarre
 Sartirana
 Sarzana
 Spigno
@@ -6600,6 +6642,7 @@ Pian di Venola
 Annone Veneto
 Varzo
 Vastogirardi
+Vignale-Riotorto
 Vigodarzere
 Mili Marina
 Villa San Giovanni
@@ -8967,9 +9010,6 @@ Mirfield
 Mistley
 Mobberley
 Monifieth
-Castellón de la Plana
-Gråsten
-Ängelholm
 Monks Risborough
 Moorfields
 Moorside
@@ -9910,6 +9950,7 @@ Arfa
 Arén
 Añézcar
 Aós
+Balanegra
 Baralla
 Barillas
 Baúl
@@ -10507,5 +10548,7 @@ Vuonislahti
 Ylistaro
 Orio al Serio
 Lamone-Cadempino
-Cernay
-Semur-en-Auxois
+Romans
+Immensee
+Diano
+Bredenbek
