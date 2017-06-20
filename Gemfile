@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+gem 'colorize'
+gem 'launchy'
+gem 'slugify'
+gem 'pry'
+gem 'byebug'
+gem 'nokogiri'
